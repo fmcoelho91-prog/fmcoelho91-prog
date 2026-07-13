@@ -36,7 +36,7 @@ Abaixo detalho o *stack* tecnológico e as áreas de domínio de negócio que ut
 O meu portefólio demonstra a aplicação de metodologias de análise de dados para resolver problemas reais de negócio e marketing.
 
 ### 1. [Ecos Progressivos: End-to-End Marketing Performance Analytics]
-* **Objetivo:** Analisar o funil de conversão de uma campanha de marketing digital para uma newsletter de nicho, identificando estrangulamentos na *landing page* para otimizar o Custo Por Aquisição (CPA).
+* **Objetivo:** Analisar o funil de conversão de uma campanha de marketing digital feito por mim para uma newsletter de nicho, identificando estrangulamentos na *landing page* para otimizar o Custo Por Aquisição (CPA).
 * **Metodologia e Ferramentas:** Criação de um pipeline ETL com Python (Pandas) para integrar dados multifonte (Meta Ads, GA4, Mailchimp). Modelação de base de dados verticalizada no SQL Server e *data storytelling* em Power BI (DAX).
 * **Impacto:** Mapeamento da jornada do utilizador que revelou uma quebra de conversão no preenchimento do formulário (43 inícios para 16 subscrições finais, CPA de 4,06 €), fundamentando recomendações estratégicas de CRO e transição para tráfego de intenção (Google Ads).
 
