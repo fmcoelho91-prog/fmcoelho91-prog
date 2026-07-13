@@ -47,7 +47,7 @@ Atualmente encontro-me a concluir a minha formação em **Data Analytics**, apro
 
 # Projetos em Destaque
 
-## 📈 Marketing Analytics Pipeline (Meta Ads + GA4 + Python + SQL + Power BI)
+## 📈 End-to-End Marketing Analytics Project (Ecos Progressivos)
 
 ### Objetivo
 
