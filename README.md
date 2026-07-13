@@ -1,55 +1,133 @@
 # Francisco Morais Coelho
-**Data Analyst | Marketing Analytics**
 
-## Resumo Profissional
-Profissional de Análise de Dados com formação consolidada em Marketing Digital, a minha especialidade reside em cruzar o rigor analítico com uma visão estratégica de negócio, transformando dados complexos em insights acionáveis que otimizam campanhas, melhoram a retenção de clientes e maximizam o retorno financeiro (ROI/ROAS).
+### Data Analyst | Marketing Analytics | Business Intelligence
 
-O meu duplo background permite-me atuar como uma ponte eficaz entre as equipas técnicas e os departamentos de marketing e gestão, garantindo que os modelos de dados desenvolvidos respondem diretamente às necessidades estratégicas da organização.
+Sou um Data Analyst em início de carreira, com formação em **Marketing Digital** e **Análise de Dados**, apaixonado por transformar dados em decisões de negócio.
 
-- **Foco de atuação:** Marketing Analytics, Otimização de Conversão, Análise de Comportamento do Consumidor
-- **Desenvolvimento atual:** [Ex: Aprofundamento de técnicas de Machine Learning com Python / Automação de pipelines de dados]
+O meu percurso permite-me combinar conhecimentos técnicos de análise de dados com uma forte compreensão das métricas de marketing e comportamento do consumidor. Tenho especial interesse em **Marketing Analytics**, **Business Intelligence** e **Data Storytelling**, desenvolvendo projetos que acompanham todo o ciclo de uma campanha: desde a aquisição de utilizadores até à análise de resultados e identificação de oportunidades de otimização.
 
----
-
-## Competências Técnicas e de Negócio
-
-Abaixo detalho o *stack* tecnológico e as áreas de domínio de negócio que utilizo na resolução de problemas analíticos:
-
-### Linguagens e Processamento de Dados
-* **Python:** Manipulação de dados e modelação estatística (Pandas, NumPy, Scikit-Learn)
-* **SQL:** Construção de *queries* complexas, extração e estruturação de bases de dados relacionais
-* **Excel Avançado:** Modelação de dados e automação (Power Query, Tabelas Dinâmicas)
-
-### Visualização de Dados e BI
-* **Power BI:** Construção de dashboards executivos e modelação de dados (DAX)
-* **Tableau:** Visualização de dados multidimensionais
-
-### Estratégia de Negócio e Marketing Analytics
-* **Métricas de Performance:** CAC, LTV, ROAS, Churn Rate e Funis de Conversão
-* **Ferramentas de Tracking:** Google ADS, Google Analytics 4, Google Tag Manager, Meta Ads Data
-* **Análise de Campanhas:** Testes A/B, segmentação de audiências e análise de cohorts
+Atualmente encontro-me a concluir a minha formação em **Data Analytics**, aprofundando competências em Python, SQL, Power BI e Machine Learning através de projetos práticos.
 
 ---
 
-## Projetos em Destaque
+# Competências
 
-O meu portefólio demonstra a aplicação de metodologias de análise de dados para resolver problemas reais de negócio e marketing.
+## Linguagens e Tratamento de Dados
 
-### 1. [Ecos Progressivos: End-to-End Marketing Performance Analytics]
-* **Objetivo:** Analisar o funil de conversão de uma campanha de marketing digital feito por mim para uma newsletter de nicho, identificando estrangulamentos na *landing page* para otimizar o Custo Por Aquisição (CPA).
-* **Metodologia e Ferramentas:** Criação de um pipeline ETL com Python (Pandas) para integrar dados multifonte (Meta Ads, GA4, Mailchimp). Modelação de base de dados verticalizada no SQL Server e *data storytelling* em Power BI (DAX).
-* **Impacto:** Mapeamento da jornada do utilizador que revelou uma quebra de conversão no preenchimento do formulário (43 inícios para 16 subscrições finais, CPA de 4,06 €), fundamentando recomendações estratégicas de CRO e transição para tráfego de intenção (Google Ads).
+* Python (Pandas, NumPy, Scikit-Learn)
+* SQL
+* Excel Avançado (Power Query, Tabelas Dinâmicas)
 
-### 2. [Análise de Churn B2B e Impacto Financeiro (SaaS)]
-* **Objetivo:** Analisar uma base de dados complexa de +7.000 clientes do setor das telecomunicações para identificar os segmentos com maior risco de abandono (Churn) e quantificar o impacto direto na receita mensal.
-* **Metodologia e Ferramentas:** Limpeza de dados, *feature engineering* (criação de segmentos de faturação e métricas comportamentais) e análise exploratória cruzada utilizando **Python (Pandas, NumPy)**. Apresentação executiva de resultados através de um **Dashboard interativo em Power BI**.
-* **Impacto:** Quantificação de uma perda de receita mensal (MRR) na ordem dos 140.000€ associada ao churn. Identificação de um padrão crítico de cancelamento (taxa de abandono de 50.3% em clientes sem fidelização e sem Apoio Técnico), resultando na elaboração de recomendações estratégicas e acionáveis para a equipa de *Customer Success*.
+## Business Intelligence
+
+* Power BI (DAX e Modelação de Dados)
+* Tableau
+
+## Marketing Analytics
+
+* Google Analytics 4
+* Google Ads
+* Meta Ads
+* Google Tag Manager
+* Mailchimp
+
+## Áreas de Especialização
+
+* Marketing Analytics
+* Business Intelligence
+* Data Visualization
+* Data Storytelling
+* Análise Exploratória de Dados (EDA)
+* ETL
+* Customer Analytics
+* Churn Analysis
+* Conversion Rate Optimization (CRO)
 
 ---
 
-## Contacto
+# Projetos em Destaque
 
-Para discutir soluções analíticas, otimização de estratégias de dados ou oportunidades profissionais:
+## 📈 Marketing Analytics Pipeline (Meta Ads + GA4 + Python + SQL + Power BI)
 
-* **LinkedIn:** www.linkedin.com/in/francisco-coelho-6a1975294
-* **E-mail:** fmcoelho91@gmail.com
+### Objetivo
+
+Desenvolvimento de um projeto completo de Marketing Analytics utilizando dados reais provenientes de uma campanha criada por mim para promover a subscrição de uma newsletter.
+
+### Tecnologias
+
+* Meta Ads
+* Google Analytics 4
+* Python
+* SQL Server
+* Power BI
+
+### O que foi desenvolvido
+
+* Criação da campanha de Meta Ads
+* Desenvolvimento da Landing Page
+* Recolha dos dados através do Google Analytics 4
+* Processo ETL em Python para integração dos dados
+* Modelação da base de dados em SQL Server
+* Construção de dashboards interativos em Power BI
+
+### Principais resultados
+
+* Análise completa do funil de conversão
+* Identificação de perdas entre o início e conclusão do formulário
+* Cálculo do CPA
+* Recomendações para otimização da Landing Page
+* Sugestão de estratégias para redução do custo de aquisição
+
+---
+
+## 📊 Customer Churn Analytics
+
+### Objetivo
+
+Analisar um conjunto de dados com mais de 7.000 clientes para compreender os principais fatores associados ao abandono de clientes e o respetivo impacto financeiro.
+
+### Tecnologias
+
+* Python
+* Pandas
+* NumPy
+* Power BI
+
+### O que foi desenvolvido
+
+* Limpeza e preparação dos dados
+* Análise exploratória
+* Criação de novas variáveis (Feature Engineering)
+* Segmentação de clientes
+* Construção de Dashboard Executivo
+
+### Principais resultados
+
+* Quantificação do impacto financeiro do churn
+* Identificação dos segmentos com maior risco de abandono
+* Identificação dos clientes sem fidelização como grupo crítico
+* Recomendações para retenção de clientes e apoio à tomada de decisão
+
+---
+
+# Tecnologias
+
+Python • SQL • Power BI • Excel • Pandas • NumPy • Scikit-Learn • Google Analytics 4 • Google Ads • Meta Ads • Google Tag Manager • Mailchimp • Git • GitHub
+
+---
+
+# Atualmente
+
+* A concluir o curso de Data Analyst
+* A desenvolver projetos de Marketing Analytics
+* A aprofundar Machine Learning com Python
+* À procura da primeira oportunidade profissional na área de Data Analytics
+
+---
+
+# 📫 Contacto
+
+Se quiseres falar sobre os meus projetos ou discutir oportunidades profissionais, podes contactar-me através de:
+
+* 💼 LinkedIn: https://www.linkedin.com/in/francisco-coelho-6a1975294
+* 📧 Email: [fmcoelho91@gmail.com](mailto:fmcoelho91@gmail.com)
