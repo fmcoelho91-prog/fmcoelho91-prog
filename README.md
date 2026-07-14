@@ -46,7 +46,7 @@ Atualmente encontro-me a concluir a minha formação em **Data Analytics**, apro
 
 # Projetos em Destaque
 
-## 📈 End-to-End Marketing Analytics Project (Ecos Progressivos)
+## End-to-End Marketing Analytics Project (Ecos Progressivos)
 
 [Ecos Progressivos](https://ecosprogressivos.carrd.co/)
 
@@ -81,7 +81,7 @@ Desenvolvimento de um projeto completo de Marketing Analytics utilizando dados r
 
 ---
 
-## 📊 Customer Churn Analytics
+## Customer Churn Analytics
 
 ### Objetivo
 
