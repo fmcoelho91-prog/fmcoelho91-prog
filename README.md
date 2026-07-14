@@ -49,9 +49,11 @@ Atualmente encontro-me a concluir a minha formação em **Data Analytics**, apro
 
 ## 📈 End-to-End Marketing Analytics Project (Ecos Progressivos)
 
+[Ecos Progressivos](https://ecosprogressivos.carrd.co/)
+
 ### Objetivo
 
-Desenvolvimento de um projeto completo de Marketing Analytics utilizando dados reais provenientes de uma campanha criada por mim para promover a subscrição de uma newsletter.
+Desenvolvimento de um projeto completo de Marketing Analytics utilizando dados reais provenientes de uma campanha desenvolvida por mim para promover a subscrição de uma newsletter.
 
 ### Tecnologias
 
