@@ -21,7 +21,6 @@ Atualmente encontro-me a concluir a minha formação em **Data Analytics**, apro
 ## Business Intelligence
 
 * Power BI (DAX e Modelação de Dados)
-* Tableau
 
 ## Marketing Analytics
 
@@ -42,7 +41,7 @@ Atualmente encontro-me a concluir a minha formação em **Data Analytics**, apro
 * Customer Analytics
 * Churn Analysis
 * Conversion Rate Optimization (CRO)
-
+  
 ---
 
 # Projetos em Destaque
