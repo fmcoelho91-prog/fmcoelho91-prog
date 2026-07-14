@@ -46,7 +46,7 @@ Atualmente encontro-me a concluir a minha formação em **Data Analytics**, apro
 
 # Projetos em Destaque
 
-## End-to-End Marketing Analytics Project (Ecos Progressivos)
+## 🎸 End-to-End Marketing Analytics Project (Ecos Progressivos)
 
 [Ecos Progressivos](https://ecosprogressivos.carrd.co/)
 
@@ -81,7 +81,7 @@ Desenvolvimento de um projeto completo de Marketing Analytics utilizando dados r
 
 ---
 
-## Customer Churn Analytics
+## 📊 Customer Churn Analytics
 
 ### Objetivo
 
@@ -124,7 +124,7 @@ Python • SQL • Power BI • Excel • Pandas • NumPy • Scikit-Learn • 
 * **[Inbound Marketing Certification](https://app-eu1.hubspot.com/academy/achievements/4zbk12bs/en/1/francisco-coelho/inbound)** — HubSpot Academy
 * **[Content Marketing Certification](https://app-eu1.hubspot.com/academy/achievements/b6483k25/en/1/francisco-coelho/content-marketing)** — HubSpot Academy
 * **[Diploma em Marketing Digital](https://crowdclass-storage.s3.eu-west-1.amazonaws.com/zhrfy3hbkxdrug10ei9piycpa8ws)** - EDIT - Disruptive Digital Education
-* 
+  
 ---
 
 # Atualmente
