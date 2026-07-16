@@ -2,11 +2,13 @@
 
 ### Data Analyst | Marketing Analytics | Business Intelligence
 
-Sou um Data Analyst em início de carreira, com formação em **Marketing Digital** e **Análise de Dados**, apaixonado por transformar dados em decisões de negócio.
+Sou **Data Analyst**, com formação em **Marketing Digital** e **Análise de Dados**, especializado em **Marketing Analytics** e **Business Intelligence**.
 
-O meu percurso permite-me combinar conhecimentos técnicos de análise de dados com uma forte compreensão das métricas de marketing e comportamento do consumidor. Tenho especial interesse em **Marketing Analytics**, **Business Intelligence** e **Data Storytelling**, desenvolvendo projetos que acompanham todo o ciclo de uma campanha: desde a aquisição de utilizadores até à análise de resultados e identificação de oportunidades de otimização.
+Combino competências em Python, SQL e Power BI com uma visão estratégica de marketing para transformar dados em insights acionáveis que apoiam a tomada de decisão.
 
-Atualmente encontro-me a concluir a minha formação em **Data Analytics**, aprofundando competências em Python, SQL, Power BI e Machine Learning através de projetos práticos.
+Tenho particular interesse em **Marketing Analytics**, **Customer Analytics**, **Business Intelligence** e **Data Storytelling**, desenvolvendo soluções que vão desde a integração e modelação de dados (ETL) até à construção de dashboards executivos e recomendações de negócio.
+
+Atualmente encontro-me a concluir a formação em **Data Analytics**, aprofundando competências em Python, SQL, Power BI e Machine Learning através de projetos práticos focados em problemas reais de negócio.
 
 ---
 
@@ -48,7 +50,9 @@ Atualmente encontro-me a concluir a minha formação em **Data Analytics**, apro
 
 ## 🎸 End-to-End Marketing Analytics Project (Ecos Progressivos)
 
-[Ecos Progressivos](https://ecosprogressivos.carrd.co/)
+[Site Ecos Progressivos](https://ecosprogressivos.carrd.co/)
+
+[Projecto End-to-End Marketing Performance Analytics](https://github.com/fmcoelho91-prog/Ecos-Progressivos-Marketing-Analytics)
 
 ### Objetivo
 
@@ -73,15 +77,16 @@ Desenvolvimento de um projeto completo de Marketing Analytics utilizando dados r
 
 ### Principais resultados
 
-* Análise completa do funil de conversão
-* Identificação de perdas entre o início e conclusão do formulário
-* Cálculo do CPA
-* Recomendações para otimização da Landing Page
-* Sugestão de estratégias para redução do custo de aquisição
+* Mapeamento completo do funil de conversão desde os Meta Ads até às subscrições no Mailchimp.
+* Identificação de uma taxa de conversão de **3,3%** na Landing Page.
+* Cálculo de um **CPA de 4,06 €**.
+* Identificação de uma quebra significativa entre o início e a conclusão do formulário, suportando recomendações de otimização (CRO).
+* Desenvolvimento de recomendações para redução do custo de aquisição e futura integração de Google Ads para captação de tráfego de intenção.
 
 ---
 
 ## 📊 Customer Churn Analytics
+[Projecto B2B-SaaS-Churn-Analysis](https://github.com/fmcoelho91-prog/B2B-SaaS-Churn-Analysis)
 
 ### Objetivo
 
@@ -104,16 +109,11 @@ Analisar um conjunto de dados com mais de 7.000 clientes para compreender os pri
 
 ### Principais resultados
 
-* Quantificação do impacto financeiro do churn
-* Identificação dos segmentos com maior risco de abandono
-* Identificação dos clientes sem fidelização como grupo crítico
-* Recomendações para retenção de clientes e apoio à tomada de decisão
-
----
-
-# Tecnologias
-
-Python • SQL • Power BI • Excel • Pandas • NumPy • Scikit-Learn • Google Analytics 4 • Google Ads • Meta Ads • Google Tag Manager • Mailchimp • Git • GitHub
+* Identificação de uma taxa global de churn de **26,5%**.
+* Quantificação de mais de **1,6 M€ de receita anual em risco** devido ao abandono de clientes.
+* Identificação do segmento **Enterprise** como o de maior risco financeiro.
+* Verificação de que clientes **Month-to-Month sem Tech Support** apresentam uma taxa de churn superior a **50%**.
+* Desenvolvimento de dashboards executivos e recomendações estratégicas para retenção de clientes.
 
 ---
 
@@ -129,10 +129,10 @@ Python • SQL • Power BI • Excel • Pandas • NumPy • Scikit-Learn • 
 
 # Atualmente
 
-* A concluir o curso de Data Analyst
-* A desenvolver projetos de Marketing Analytics
-* A aprofundar Machine Learning com Python
-* À procura da primeira oportunidade profissional na área de Data Analytics
+- A concluir a formação em Data Analytics.
+- A desenvolver projetos de Marketing Analytics e Business Intelligence.
+- A aprofundar competências em Machine Learning com Python.
+- À procura da primeira oportunidade profissional como Data Analyst.
 
 ---
 
