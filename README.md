@@ -119,11 +119,12 @@ Analisar um conjunto de dados com mais de 7.000 clientes para compreender os pri
 
 # 🏆 Certificações
 
+* **[Diploma em Marketing Digital](https://crowdclass-storage.s3.eu-west-1.amazonaws.com/zhrfy3hbkxdrug10ei9piycpa8ws)** - EDIT - Disruptive Digital Education
 * **[Google Analytics Certification](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/188051417)** — Google Skillshop
 * **[Google Ads Certification](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/184611605)** — Google Skillshop
 * **[Inbound Marketing Certification](https://app-eu1.hubspot.com/academy/achievements/4zbk12bs/en/1/francisco-coelho/inbound)** — HubSpot Academy
 * **[Content Marketing Certification](https://app-eu1.hubspot.com/academy/achievements/b6483k25/en/1/francisco-coelho/content-marketing)** — HubSpot Academy
-* **[Diploma em Marketing Digital](https://crowdclass-storage.s3.eu-west-1.amazonaws.com/zhrfy3hbkxdrug10ei9piycpa8ws)** - EDIT - Disruptive Digital Education
+
   
 ---
 
