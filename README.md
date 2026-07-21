@@ -86,7 +86,7 @@ Desenvolvimento de um projeto completo de Marketing Analytics utilizando dados r
 ---
 
 ## 📊 Customer Churn Analytics
-[Projecto B2B-SaaS-Churn-Analysis](https://github.com/fmcoelho91-prog/B2B-SaaS-Churn-Analysis)
+[Projecto Telecommunications Customer Churn & Revenue Risk Analysis](https://github.com/fmcoelho91-prog/B2B-SaaS-Churn-Analysis)
 
 ### Objetivo
 
