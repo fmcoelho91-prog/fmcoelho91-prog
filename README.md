@@ -2,13 +2,13 @@
 
 ### Data Analyst | Marketing Analytics | Business Intelligence
 
-Sou **Data Analyst**, com formação em **Marketing Digital** e **Análise de Dados**, especializado em **Marketing Analytics** e **Business Intelligence**.
+Sou Data Analyst, com formação em Marketing Digital e Data Analytics, especializado em Marketing Analytics e Business Intelligence.
 
 Combino competências em Python, SQL e Power BI com uma visão estratégica de marketing para transformar dados em insights acionáveis que apoiam a tomada de decisão.
 
-Tenho particular interesse em **Marketing Analytics**, **Customer Analytics**, **Business Intelligence** e **Data Storytelling**, desenvolvendo soluções que vão desde a integração e modelação de dados (ETL) até à construção de dashboards executivos e recomendações de negócio.
+Tenho particular interesse em Marketing Analytics, Customer Analytics, Business Intelligence e Data Storytelling, desenvolvendo soluções que abrangem todo o ciclo analítico — desde a recolha, integração e transformação de dados (ETL) até à modelação, visualização e comunicação de insights através de dashboards executivos.
 
-Atualmente encontro-me a concluir a formação em **Data Analytics**, aprofundando competências em Python, SQL, Power BI e Machine Learning através de projetos práticos focados em problemas reais de negócio.
+Ao longo da minha formação, desenvolvi projetos práticos focados em problemas reais de negócio, aplicando Python, SQL, Power BI e Machine Learning para apoiar decisões orientadas por dados.
 
 ---
 
