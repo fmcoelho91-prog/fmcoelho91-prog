@@ -122,34 +122,41 @@ A análise demonstrou que a otimização não deve concentrar-se apenas na aquis
 ---
 
 ## 📊 Customer Churn Analytics
-[Projecto Telecommunications Customer Churn & Revenue Risk Analysis](https://github.com/fmcoelho91-prog/B2B-SaaS-Churn-Analysis)
 
-### Objetivo
+### [Telecommunications Customer Churn & Revenue Risk Analysis](COLOCA-AQUI-O-LINK-DO-REPOSITÓRIO)
 
-Analisar um conjunto de dados com mais de 7.000 clientes para compreender os principais fatores associados ao abandono de clientes e o respetivo impacto financeiro.
+Análise de Customer Churn desenvolvida sobre uma base de dados com **7.043 clientes** de uma empresa do setor das telecomunicações.
+
+O objetivo do projeto foi identificar os principais fatores associados ao abandono de clientes, quantificar o respetivo impacto financeiro e desenvolver recomendações orientadas para a retenção e proteção da receita.
 
 ### Tecnologias
 
 * Python
 * Pandas
-* NumPy
+* Jupyter Notebook
 * Power BI
 
 ### O que foi desenvolvido
 
-* Limpeza e preparação dos dados
-* Análise exploratória
-* Criação de novas variáveis (Feature Engineering)
-* Segmentação de clientes
-* Construção de Dashboard Executivo
+* Auditoria, limpeza e validação dos dados
+* Análise Exploratória de Dados
+* Criação de novas variáveis
+* Segmentação dos clientes por valor e tempo de permanência
+* Análise do impacto financeiro do churn
+* Desenvolvimento de um dashboard interativo em Power BI
+* Criação de recomendações estratégicas de retenção
 
 ### Principais resultados
 
-* Identificação de uma taxa global de churn de **26,5%**.
-* Quantificação de mais de **1,6 M€ de receita anual em risco** devido ao abandono de clientes.
-* Identificação do segmento **Enterprise** como o de maior risco financeiro.
-* Verificação de que clientes **Month-to-Month sem Tech Support** apresentam uma taxa de churn superior a **50%**.
-* Desenvolvimento de dashboards executivos e recomendações estratégicas para retenção de clientes.
+* Taxa global de churn de **26,54%**
+* **1.869 clientes** perdidos
+* **139.130,85 €** de faturação mensal associada ao churn
+* Impacto anualizado estimado de aproximadamente **1,67 M€**
+* Taxa de churn de **42,71%** nos contratos `Month-to-month`
+* Aproximadamente **87% da faturação mensal perdida** concentrada nos contratos mensais
+* Clientes de **Alto Valor** responsáveis por cerca de **61% da faturação mensal associada ao churn**
+* Taxa de churn de **50,37%** entre clientes `Month-to-month` sem Tech Support, comparativamente a **30,70%** entre clientes com esse serviço
+* Desenvolvimento de três páginas de dashboard com análise executiva, segmentação, impacto financeiro e recomendações
 
 ---
 
