@@ -48,40 +48,76 @@ Atualmente encontro-me a concluir a formação em **Data Analytics**, aprofundan
 
 # Projetos em Destaque
 
-## 🎸 End-to-End Marketing Analytics Project (Ecos Progressivos)
+## 🎸 Ecos Progressivos — End-to-End Marketing Performance Analytics
 
-[Site Ecos Progressivos](https://ecosprogressivos.carrd.co/)
-
-[Projecto End-to-End Marketing Performance Analytics](https://github.com/fmcoelho91-prog/Ecos-Progressivos-Marketing-Analytics)
+[🌐 Visitar o site](https://ecosprogressivos.carrd.co/) | [📂 Ver o projeto completo](https://github.com/fmcoelho91-prog/Ecos-Progressivos-Marketing-Analytics)
 
 ### Objetivo
 
-Desenvolvimento de um projeto completo de Marketing Analytics utilizando dados reais provenientes de uma campanha desenvolvida por mim para promover a subscrição de uma newsletter.
+Desenvolvimento de um projeto completo de **Marketing Analytics**, utilizando dados reais de uma campanha criada por mim para promover a subscrição de uma newsletter dedicada ao rock progressivo.
+
+O projeto acompanha todo o processo, desde a criação da landing page e da campanha de Meta Ads até à integração, tratamento, armazenamento e visualização dos dados.
 
 ### Tecnologias
 
-* Meta Ads
-* Google Analytics 4
-* Python
-* SQL Server
-* Power BI
+- Meta Ads
+- Google Analytics 4
+- Mailchimp
+- Python
+- Pandas
+- SQLAlchemy
+- SQL Server
+- Power BI
+- DAX
 
 ### O que foi desenvolvido
 
-* Criação da campanha de Meta Ads
-* Desenvolvimento da Landing Page
-* Recolha dos dados através do Google Analytics 4
-* Processo ETL em Python para integração dos dados
-* Modelação da base de dados em SQL Server
-* Construção de dashboards interativos em Power BI
+- Criação da identidade e proposta de valor do projeto Ecos Progressivos;
+- Desenvolvimento da landing page para captação de subscritores;
+- Planeamento e execução de uma campanha de conversão em Meta Ads;
+- Implementação da medição do website através do Google Analytics 4;
+- Recolha das subscrições confirmadas através do Mailchimp;
+- Processo ETL em Python para importar, limpar e integrar dados de diferentes plataformas;
+- Consolidação das métricas num modelo vertical;
+- Carregamento dos dados no SQL Server;
+- Criação de medidas DAX e de um dashboard interativo em Power BI;
+- Análise do funil de conversão e desenvolvimento de recomendações estratégicas.
 
-### Principais resultados
+### Arquitetura do Projeto
 
-* Mapeamento completo do funil de conversão desde os Meta Ads até às subscrições no Mailchimp.
-* Identificação de uma taxa de conversão de **3,3%** na Landing Page.
-* Cálculo de um **CPA de 4,06 €**.
-* Identificação de uma quebra significativa entre o início e a conclusão do formulário, suportando recomendações de otimização (CRO).
-* Desenvolvimento de recomendações para redução do custo de aquisição e futura integração de Google Ads para captação de tráfego de intenção.
+`Meta Ads + GA4 + Mailchimp → Python ETL → SQL Server → Power BI`
+
+### Principais Resultados
+
+- **Investimento em Meta Ads:** 64,79 €
+- **Impressões:** 25 386
+- **Alcance:** 16 338 pessoas
+- **Resultados atribuídos pela Meta:** 7
+- **Sessões no website:** 532
+- **Novos utilizadores:** 481
+- **Inícios de formulário:** 43
+- **Subscrições confirmadas:** 16
+- **Taxa de início do formulário:** 8,08%
+- **Taxa de conversão por sessão:** 3,01%
+- **Custo por resultado atribuído pela Meta:** 9,26 €
+- **Custo global por subscrição:** 4,05 €
+
+### Principais Insights
+
+A maior perda do funil ocorreu antes do início do formulário. Das **532 sessões**, apenas **43** originaram um evento de início de formulário, representando uma taxa de **8,08%**.
+
+Entre os **43 inícios de formulário** e as **16 subscrições confirmadas**, o rácio foi de **37,21%**. Este valor deve ser interpretado como uma aproximação operacional, uma vez que compara eventos do GA4 com contactos únicos confirmados no Mailchimp.
+
+A análise demonstrou que a otimização não deve concentrar-se apenas na aquisição de tráfego. A clareza da proposta de valor, a visibilidade do formulário, a experiência em dispositivos móveis e a qualidade da medição também influenciam diretamente a conversão.
+
+### Recomendações
+
+- Implementar parâmetros UTM consistentes;
+- Validar eventos como `form_start`, `form_submit` e `sign_up`;
+- Melhorar a visibilidade e simplicidade do formulário;
+- Reforçar o alinhamento entre os anúncios e a landing page;
+- Testar Google Search como canal de aquisição baseado na intenção de pesquisa;
+- Desenvolver testes A/B para melhorar a taxa de conversão.
 
 ---
 
