@@ -123,7 +123,7 @@ A análise demonstrou que a otimização não deve concentrar-se apenas na aquis
 
 ## 📊 Customer Churn Analytics
 
-### [Telecommunications Customer Churn & Revenue Risk Analysis](COLOCA-AQUI-O-LINK-DO-REPOSITÓRIO)
+### [Telecommunications Customer Churn & Revenue Risk Analysis](https://github.com/fmcoelho91-prog/Telecommunications-Customer-Churn)
 
 Análise de Customer Churn desenvolvida sobre uma base de dados com **7.043 clientes** de uma empresa do setor das telecomunicações.
 
