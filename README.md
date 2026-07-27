@@ -2,63 +2,72 @@
 
 ### Data Analyst | Marketing Analytics | Business Intelligence
 
-Sou Data Analyst, com formação em Marketing Digital e Data Analytics, especializado em Marketing Analytics e Business Intelligence.
+I am a Data Analyst with a background in Digital Marketing, operations management and KPI-driven decision-making.
 
-Combino competências em Python, SQL e Power BI com uma visão estratégica de marketing para transformar dados em insights acionáveis que apoiam a tomada de decisão.
+I recently completed an intensive Data Analytics programme at TechOf, developing practical skills in Python, SQL, SQL Server, Power BI, DAX, Excel and ETL processes. I also hold a diploma in Digital Marketing from EDIT – Disruptive Digital Education, completed with a final grade of 19/20.
 
-Tenho particular interesse em Marketing Analytics, Customer Analytics, Business Intelligence e Data Storytelling, desenvolvendo soluções que abrangem todo o ciclo analítico — desde a recolha, integração e transformação de dados (ETL) até à modelação, visualização e comunicação de insights através de dashboards executivos.
+I combine technical expertise, business understanding and marketing analytics to transform complex data into actionable insights that support strategic decision-making, improve conversion funnels and identify opportunities for revenue protection and performance optimisation.
 
-Ao longo da minha formação, desenvolvi projetos práticos focados em problemas reais de negócio, aplicando Python, SQL, Power BI e Machine Learning para apoiar decisões orientadas por dados.
+My portfolio includes end-to-end analytics projects covering data collection, cleaning, transformation, database integration, exploratory analysis, KPI modelling and interactive dashboard development.
+
+I am particularly interested in Customer Analytics, Marketing Analytics, Business Intelligence, Churn Analysis, Revenue Risk Analysis and Data Storytelling.
 
 ---
 
-# Competências
+# Technical Skills
 
-## Linguagens e Tratamento de Dados
+## Programming & Data Analysis
 
-* Python (Pandas, NumPy, Scikit-Learn)
-* SQL
-* Excel Avançado (Power Query, Tabelas Dinâmicas)
+- Python: Pandas, NumPy, Matplotlib and Seaborn
+- SQL
+- Advanced Excel: Power Query, XLOOKUP, Power Pivot and PivotTables
 
-## Business Intelligence
+## Business Intelligence & Databases
 
-* Power BI (DAX e Modelação de Dados)
+- Power BI
+- DAX
+- Data Modelling
+- SQL Server
+- ETL Processes
+- Interactive Dashboard Development
 
 ## Marketing Analytics
 
-* Google Analytics 4
-* Google Ads
-* Meta Ads
-* Google Tag Manager
-* Mailchimp
+- Google Analytics 4
+- Google Ads
+- Meta Ads
+- Google Tag Manager
+- Mailchimp
+- Funnel Analysis
+- Conversion Rate Optimisation
 
-## Áreas de Especialização
+## Areas of Interest
 
-* Marketing Analytics
-* Business Intelligence
-* Data Visualization
-* Data Storytelling
-* Análise Exploratória de Dados (EDA)
-* ETL
-* Customer Analytics
-* Churn Analysis
-* Conversion Rate Optimization (CRO)
-  
+- Customer Analytics
+- Marketing Analytics
+- Business Intelligence
+- Exploratory Data Analysis
+- Churn Analysis
+- Revenue Risk Analysis
+- Data Visualisation
+- Data Storytelling
+- ETL
+
 ---
 
-# Projetos em Destaque
+# Featured Projects
 
 ## 🎸 Ecos Progressivos — End-to-End Marketing Performance Analytics
 
-[🌐 Visitar o site](https://ecosprogressivos.carrd.co/) | [📂 Ver o projeto completo](https://github.com/fmcoelho91-prog/Ecos-Progressivos-Marketing-Analytics)
+[🌐 Visit the website](https://ecosprogressivos.carrd.co/) | [📂 View the full project](https://github.com/fmcoelho91-prog/Ecos-Progressivos-Marketing-Analytics)
 
-### Objetivo
+### Objective
 
-Desenvolvimento de um projeto completo de **Marketing Analytics**, utilizando dados reais de uma campanha criada por mim para promover a subscrição de uma newsletter dedicada ao rock progressivo.
+Development of a complete Marketing Analytics project using real data from a digital campaign created to promote subscriptions to a progressive rock newsletter.
 
-O projeto acompanha todo o processo, desde a criação da landing page e da campanha de Meta Ads até à integração, tratamento, armazenamento e visualização dos dados.
+The project covers the entire process, from the creation of the landing page and Meta Ads campaign to the integration, transformation, storage and visualisation of data.
 
-### Tecnologias
+### Technologies
 
 - Meta Ads
 - Google Analytics 4
@@ -70,113 +79,134 @@ O projeto acompanha todo o processo, desde a criação da landing page e da camp
 - Power BI
 - DAX
 
-### O que foi desenvolvido
+### What Was Developed
 
-- Criação da identidade e proposta de valor do projeto Ecos Progressivos;
-- Desenvolvimento da landing page para captação de subscritores;
-- Planeamento e execução de uma campanha de conversão em Meta Ads;
-- Implementação da medição do website através do Google Analytics 4;
-- Recolha das subscrições confirmadas através do Mailchimp;
-- Processo ETL em Python para importar, limpar e integrar dados de diferentes plataformas;
-- Consolidação das métricas num modelo vertical;
-- Carregamento dos dados no SQL Server;
-- Criação de medidas DAX e de um dashboard interativo em Power BI;
-- Análise do funil de conversão e desenvolvimento de recomendações estratégicas.
+- Created the brand identity and value proposition for Ecos Progressivos
+- Developed a landing page to capture newsletter subscribers
+- Planned and executed a conversion campaign using Meta Ads
+- Implemented website measurement through Google Analytics 4
+- Collected confirmed subscriptions through Mailchimp
+- Built a Python ETL process to import, clean and integrate data from multiple platforms
+- Consolidated campaign metrics into a structured data model
+- Loaded the transformed data into SQL Server
+- Created DAX measures and an interactive Power BI dashboard
+- Analysed the conversion funnel and developed strategic recommendations
 
-### Arquitetura do Projeto
+### Project Architecture
 
 `Meta Ads + GA4 + Mailchimp → Python ETL → SQL Server → Power BI`
 
-### Principais Resultados
+### Key Results
 
-- **Investimento em Meta Ads:** 64,79 €
-- **Impressões:** 25 386
-- **Alcance:** 16 338 pessoas
-- **Resultados atribuídos pela Meta:** 7
-- **Sessões no website:** 532
-- **Novos utilizadores:** 481
-- **Inícios de formulário:** 43
-- **Subscrições confirmadas:** 16
-- **Taxa de início do formulário:** 8,08%
-- **Taxa de conversão por sessão:** 3,01%
-- **Custo por resultado atribuído pela Meta:** 9,26 €
-- **Custo global por subscrição:** 4,05 €
+- **Meta Ads investment:** €64.79
+- **Impressions:** 25,386
+- **Reach:** 16,338 people
+- **Results attributed by Meta:** 7
+- **Website sessions:** 532
+- **New users:** 481
+- **Form starts:** 43
+- **Confirmed subscriptions:** 16
+- **Form-start rate:** 8.08%
+- **Session conversion rate:** 3.01%
+- **Cost per result attributed by Meta:** €9.26
+- **Overall cost per subscription:** €4.05
 
-### Principais Insights
+### Key Insights
 
-A maior perda do funil ocorreu antes do início do formulário. Das **532 sessões**, apenas **43** originaram um evento de início de formulário, representando uma taxa de **8,08%**.
+The largest conversion funnel loss occurred before users started completing the form. From **532 website sessions**, only **43** generated a form-start event, representing a form-start rate of **8.08%**.
 
-Entre os **43 inícios de formulário** e as **16 subscrições confirmadas**, o rácio foi de **37,21%**. Este valor deve ser interpretado como uma aproximação operacional, uma vez que compara eventos do GA4 com contactos únicos confirmados no Mailchimp.
+Among the **43 form starts** and **16 confirmed subscriptions**, the resulting ratio was **37.21%**. This figure should be interpreted as an operational approximation because it compares GA4 events with unique confirmed contacts recorded in Mailchimp.
 
-A análise demonstrou que a otimização não deve concentrar-se apenas na aquisição de tráfego. A clareza da proposta de valor, a visibilidade do formulário, a experiência em dispositivos móveis e a qualidade da medição também influenciam diretamente a conversão.
+The analysis demonstrated that optimisation should not focus exclusively on traffic acquisition. The clarity of the value proposition, form visibility, mobile experience and measurement quality also have a direct impact on conversion performance.
 
-### Recomendações
+### Recommendations
 
-- Implementar parâmetros UTM consistentes;
-- Validar eventos como `form_start`, `form_submit` e `sign_up`;
-- Melhorar a visibilidade e simplicidade do formulário;
-- Reforçar o alinhamento entre os anúncios e a landing page;
-- Testar Google Search como canal de aquisição baseado na intenção de pesquisa;
-- Desenvolver testes A/B para melhorar a taxa de conversão.
-
----
-
-## 📊 Customer Churn Analytics
-
-### [Telecommunications Customer Churn & Revenue Risk Analysis](https://github.com/fmcoelho91-prog/Telecommunications-Customer-Churn)
-
-Análise de Customer Churn desenvolvida sobre uma base de dados com **7.043 clientes** de uma empresa do setor das telecomunicações.
-
-O objetivo do projeto foi identificar os principais fatores associados ao abandono de clientes, quantificar o respetivo impacto financeiro e desenvolver recomendações orientadas para a retenção e proteção da receita.
-
-### Tecnologias
-
-* Python
-* Pandas
-* Jupyter Notebook
-* Power BI
-
-### O que foi desenvolvido
-
-* Auditoria, limpeza e validação dos dados
-* Análise Exploratória de Dados
-* Criação de novas variáveis
-* Segmentação dos clientes por valor e tempo de permanência
-* Análise do impacto financeiro do churn
-* Desenvolvimento de um dashboard interativo em Power BI
-* Criação de recomendações estratégicas de retenção
-
-### Principais resultados
-
-* Taxa global de churn de **26,54%**
-* **1.869 clientes** perdidos
-* **139.130,85 €** de faturação mensal associada ao churn
-* Impacto anualizado estimado de aproximadamente **1,67 M€**
-* Taxa de churn de **42,71%** nos contratos `Month-to-month`
-* Aproximadamente **87% da faturação mensal perdida** concentrada nos contratos mensais
-* Clientes de **Alto Valor** responsáveis por cerca de **61% da faturação mensal associada ao churn**
-* Taxa de churn de **50,37%** entre clientes `Month-to-month` sem Tech Support, comparativamente a **30,70%** entre clientes com esse serviço
-* Desenvolvimento de três páginas de dashboard com análise executiva, segmentação, impacto financeiro e recomendações
+- Implement consistent UTM parameters across all campaigns
+- Validate events such as `form_start`, `form_submit` and `sign_up`
+- Improve the visibility and simplicity of the subscription form
+- Strengthen alignment between advertisements and the landing page
+- Test Google Search as an intent-based acquisition channel
+- Develop A/B tests to improve the conversion rate
 
 ---
 
-# 🏆 Certificações
+## 📊 Telecommunications Customer Churn & Revenue Risk Analysis
 
-* **[Diploma em Marketing Digital](https://crowdclass-storage.s3.eu-west-1.amazonaws.com/zhrfy3hbkxdrug10ei9piycpa8ws)** - EDIT - Disruptive Digital Education
-* **[Google Analytics Certification](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/188051417)** — Google Skillshop
-* **[Google Ads Certification](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/184611605)** — Google Skillshop
-* **[Inbound Marketing Certification](https://app-eu1.hubspot.com/academy/achievements/4zbk12bs/en/1/francisco-coelho/inbound)** — HubSpot Academy
-* **[Content Marketing Certification](https://app-eu1.hubspot.com/academy/achievements/b6483k25/en/1/francisco-coelho/content-marketing)** — HubSpot Academy
+[📂 View the full project](https://github.com/fmcoelho91-prog/Telecommunications-Customer-Churn)
 
-  
+### Objective
+
+Customer churn analysis based on a dataset containing **7,043 customers** from a telecommunications company.
+
+The objective was to identify the main factors associated with customer churn, quantify its financial impact and develop recommendations focused on customer retention and revenue protection.
+
+### Technologies
+
+- Python
+- Pandas
+- NumPy
+- Jupyter Notebook
+- Power BI
+- DAX
+
+### What Was Developed
+
+- Data auditing, cleaning and validation
+- Exploratory Data Analysis
+- Feature engineering
+- Customer segmentation by value and tenure
+- Financial impact analysis
+- Interactive Power BI dashboard development
+- Strategic customer retention recommendations
+
+### Key Results
+
+- Overall churn rate of **26.54%**
+- **1,869 customers** lost
+- **€139,130.85 in monthly recurring revenue associated with churn**
+- Estimated annualised impact of approximately **€1.67M**
+- Churn rate of **42.71%** among `Month-to-month` contracts
+- Approximately **87% of monthly revenue associated with churn** concentrated among monthly contracts
+- High-value customers responsible for approximately **61% of monthly revenue associated with churn**
+- Churn rate of **50.37%** among `Month-to-month` customers without Tech Support, compared with **30.70%** among customers with the service
+- Three Power BI dashboard pages covering executive analysis, customer segmentation, financial impact and recommendations
+
+### Key Insights
+
+The analysis showed that customers with `Month-to-month` contracts presented the highest churn risk and represented the largest share of monthly revenue associated with churn.
+
+High-value customers had a disproportionate financial impact, making them a priority segment for retention strategies.
+
+The availability of services such as Tech Support was also associated with lower churn rates, particularly among customers with monthly contracts.
+
+### Recommendations
+
+- Prioritise high-value customers with `Month-to-month` contracts
+- Promote migration to longer-term contracts through targeted incentives
+- Develop proactive retention campaigns during the first months of the customer lifecycle
+- Increase adoption of Tech Support and related services
+- Monitor churn and revenue risk through regularly updated dashboards
+- Introduce predictive churn modelling as a future project extension
+
 ---
 
-# Atualmente
+# 🏆 Certifications
 
-- A concluir a formação em Data Analytics.
-- A desenvolver projetos de Marketing Analytics e Business Intelligence.
-- A aprofundar competências em Machine Learning com Python.
-- À procura da primeira oportunidade profissional como Data Analyst.
+- **[Diploma in Digital Marketing](https://crowdclass-storage.s3.eu-west-1.amazonaws.com/zhrfy3hbkxdrug10ei9piycpa8ws)** — EDIT – Disruptive Digital Education
+- **[Google Analytics Certification](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/188051417)** — Google Skillshop
+- **[Google Ads Search Certification](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/184611605)** — Google Skillshop
+- **[Inbound Marketing Certification](https://app-eu1.hubspot.com/academy/achievements/4zbk12bs/en/1/francisco-coelho/inbound)** — HubSpot Academy
+- **[Content Marketing Certification](https://app-eu1.hubspot.com/academy/achievements/b6483k25/en/1/francisco-coelho/content-marketing)** — HubSpot Academy
+
+---
+
+# Current Focus
+
+- Building end-to-end Data Analytics and Business Intelligence projects
+- Strengthening my skills in Python, SQL, Power BI and data modelling
+- Expanding my portfolio across Customer Analytics, Marketing Analytics and revenue risk analysis
+- Developing foundational Machine Learning skills with Python
+- Seeking my first professional opportunity as a Data Analyst.
 
 ---
 
