@@ -210,9 +210,9 @@ The availability of services such as Tech Support was also associated with lower
 
 ---
 
-# 📫 Contacto
+# Contact
 
-Se quiseres falar sobre os meus projetos ou discutir oportunidades profissionais, podes contactar-me através de:
+If you would like to discuss my projects or professional opportunities, feel free to contact me through:
 
-* 💼 LinkedIn: https://www.linkedin.com/in/francisco-coelho-6a1975294
-* 📧 Email: [fmcoelho91@gmail.com](mailto:fmcoelho91@gmail.com)
+- **Email:** [fmcoelho91@gmail.com](mailto:fmcoelho91@gmail.com)
+- **LinkedIn:** [linkedin.com/in/fmcoelho91](https://www.linkedin.com/in/fmcoelho91)
