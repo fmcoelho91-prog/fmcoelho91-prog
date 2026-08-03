@@ -205,8 +205,8 @@ The availability of services such as Tech Support was also associated with lower
 - Building end-to-end Data Analytics and Business Intelligence projects
 - Strengthening my skills in Python, SQL, Power BI and data modelling
 - Expanding my portfolio across Customer Analytics, Marketing Analytics and revenue risk analysis
-- Developing foundational Machine Learning skills with Python
-- Seeking my first professional opportunity as a Data Analyst.
+- Exploring predictive modelling and Machine Learning with Python to forecast customer behaviour
+- Available for Data Analyst roles where I can leverage data to drive business impact and optimise performance
 
 ---
 
