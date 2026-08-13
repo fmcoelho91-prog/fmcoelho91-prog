@@ -6,15 +6,15 @@ I am a Data Analyst with a background in Digital Marketing, operations managemen
 
 I see the Data Analyst role as one that is evolving.
 
-In my view, analysts are increasingly expected to do more than explore data and build dashboards. Understanding how data is transformed, modelled, tested and made reliable before it reaches the analytical layer is becoming an increasingly valuable part of the role.
+In my view, analysts are increasingly expected to do more than explore data and build dashboards, understanding how data is transformed, modelled, tested and made reliable before it reaches the analytical layer is becoming an increasingly valuable part of the role.
 
 That is the direction I want to follow.
 
-I started with Digital Marketing, where data was already central to understanding customer behaviour, campaign performance and conversion. I then moved deeper into Data Analytics, developing practical skills in Python, SQL, Power BI, Excel and ETL processes.
+I started with Digital Marketing, where data was already central to understanding customer behaviour, campaign performance and conversion, then, i moved deeper into Data Analytics, developing practical skills in Python, SQL, Power BI, Excel and ETL processes.
 
-Today, I am expanding that foundation toward Analytics Engineering, working with technologies and practices such as dbt, Snowflake, dimensional modelling, data quality testing, documentation, lineage and Git.
+Today, i am expanding that foundation toward Analytics Engineering, working with technologies and practices such as dbt, Snowflake, dimensional modelling, data quality testing, documentation, lineage and Git.
 
-I do not see this as moving away from analytics. I see it as becoming a more complete analyst: someone who can understand the business question, work with the underlying data, build reliable analytical models and ultimately turn that data into useful decisions.
+I do not see this as moving away from analytics, i see it as becoming a more complete analyst: someone who can understand the business question, work with the underlying data, build reliable analytical models and ultimately turn that data into useful decisions.
 
 My goal is to keep developing at the intersection of analytics, engineering and business, while building a profile that is prepared for how I believe the data profession is evolving.
 ---
