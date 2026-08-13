@@ -1,35 +1,68 @@
 # Francisco Morais Coelho
 
-### Data Analyst | Marketing Analytics | Business Intelligence
+### Data Analyst | Analytics Engineering | Marketing Analytics
 
-I am a Data Analyst with a background in Digital Marketing, operations management and KPI-driven decision-making.
+I am a Data Analyst with a background in Digital Marketing, operations management and KPI-driven decision-making, currently expanding my profile toward modern Analytics Engineering.
 
 I recently completed an intensive Data Analytics programme at TechOf, developing practical skills in Python, SQL, SQL Server, Power BI, DAX, Excel and ETL processes. I also hold a diploma in Digital Marketing from EDIT – Disruptive Digital Education, completed with a final grade of 19/20.
 
-I combine technical expertise, business understanding and marketing analytics to transform complex data into actionable insights that support strategic decision-making, improve conversion funnels and identify opportunities for revenue protection and performance optimisation.
+My current focus is on building reliable analytics workflows that go beyond dashboard creation, combining data transformation, dimensional modelling, data quality testing, documentation, version control and cloud data platforms.
 
-My portfolio includes end-to-end analytics projects covering data collection, cleaning, transformation, database integration, exploratory analysis, KPI modelling and interactive dashboard development.
+I work across the analytics lifecycle, from raw data ingestion and transformation to analytical modelling and business analysis, with a particular interest in building data models that are accurate, maintainable and useful for decision-making.
 
-I am particularly interested in Customer Analytics, Marketing Analytics, Business Intelligence, Churn Analysis, Revenue Risk Analysis and Data Storytelling.
+My portfolio includes projects in Analytics Engineering, Marketing Analytics, Customer Analytics, Churn Analysis and Business Intelligence using real and public datasets.
 
 ---
 
 # Technical Skills
 
-## Programming & Data Analysis
+## Data & Analytics
 
-- Python: Pandas, NumPy, Matplotlib and Seaborn
 - SQL
-- Advanced Excel: Power Query, XLOOKUP, Power Pivot and PivotTables
+- Python
+- Pandas
+- NumPy
+- Exploratory Data Analysis
+- Data Cleaning and Transformation
+- Data Modelling
+- Dimensional Modelling
+- ETL Processes
+- Business Analysis
 
-## Business Intelligence & Databases
+## Analytics Engineering
+
+- dbt
+- Snowflake
+- Staging / Intermediate / Marts Architecture
+- Fact and Dimension Modelling
+- Data Quality Testing
+- dbt Documentation and Lineage
+- Source Definitions
+- Business Rule Validation
+- Git / GitHub
+- Pull Request Workflow
+
+## Business Intelligence
 
 - Power BI
 - DAX
-- Data Modelling
-- SQL Server
-- ETL Processes
+- Power Query
 - Interactive Dashboard Development
+- KPI Modelling
+- Data Storytelling
+
+## Databases & Tools
+
+- Snowflake
+- SQL Server
+- dbt Cloud
+- Jupyter Notebook
+- Git
+- GitHub
+- Advanced Excel
+- Power Pivot
+- PivotTables
+- XLOOKUP
 
 ## Marketing Analytics
 
@@ -40,22 +73,103 @@ I am particularly interested in Customer Analytics, Marketing Analytics, Busines
 - Mailchimp
 - Funnel Analysis
 - Conversion Rate Optimisation
+- Campaign Performance Analysis
 
-## Areas of Interest
+---
 
-- Customer Analytics
+# Areas of Interest
+
+- Analytics Engineering
+- Data Analytics
 - Marketing Analytics
+- Customer Analytics
 - Business Intelligence
-- Exploratory Data Analysis
+- Dimensional Modelling
+- Data Quality
 - Churn Analysis
 - Revenue Risk Analysis
-- Data Visualisation
 - Data Storytelling
-- ETL
+- Cloud Analytics
 
 ---
 
 # Featured Projects
+
+## 🛒 Modern E-Commerce Analytics Platform — Snowflake + dbt
+
+[📂 View the full project](https://github.com/fmcoelho91-prog/Olist-analytics-engineering)
+
+### Objective
+
+Development of a modern Analytics Engineering project using the Brazilian Olist e-commerce dataset.
+
+The objective was to transform raw relational data into a clean, tested, documented and analysis-ready dimensional model using Snowflake and dbt.
+
+The project focuses on data modelling reliability, grain definition, fanout prevention, automated data quality testing, documentation, lineage and production deployment.
+
+### Technologies
+
+- Snowflake
+- dbt Cloud
+- SQL
+- Git
+- GitHub
+
+### Architecture
+
+`RAW → STAGING → INTERMEDIATE → MARTS → ANALYSES`
+
+### What Was Developed
+
+- Loaded 9 relational source tables into Snowflake
+- Profiled source data to identify grain, keys, nulls and one-to-many relationships
+- Created staging models with standardized naming and source definitions
+- Built intermediate models to aggregate order items, payments and reviews
+- Prevented fanout by aggregating one-to-many relationships before order-level joins
+- Created order-level and item-level fact tables
+- Created customer, product and seller dimensions
+- Implemented generic and singular dbt tests
+- Added delivery performance and customer experience metrics
+- Generated dbt documentation and lineage
+- Used Git branches and pull requests for version control
+- Created a dbt Cloud production deployment job
+- Built reusable analytical SQL queries using the final marts
+
+### Key Engineering Decisions
+
+- Defined the grain of every model explicitly
+- Preserved order-level accuracy by preventing fanout
+- Separated facts from descriptive dimensions
+- Used LEFT JOINs where missing relationships should not remove valid orders
+- Kept transformations modular and explainable
+- Validated business rules through automated tests
+- Used analytical marts instead of querying raw data directly
+
+### Key Business Insights
+
+Delayed orders achieved an average review score of **2.27**, compared with **4.29** for orders delivered on time or early.
+
+Customer ratings declined strongly as delays increased:
+
+- On time / early: 4.29
+- 1–3 days late: 3.29
+- 4–7 days late: 2.11
+- 8–14 days late: 1.67
+- 15+ days late: 1.73
+
+The highest-revenue product categories included:
+
+- health_beauty
+- watches_gifts
+- bed_bath_table
+- sports_leisure
+- computers_accessories
+
+The Top 10 sellers represented only approximately **13.15% of total marketplace revenue**, suggesting that revenue was relatively distributed across a broad seller base.
+
+Delivery reliability also varied by customer state, with some regions showing considerably higher delayed-order rates than others.
+
+---
 
 ## 🎸 Ecos Progressivos — End-to-End Marketing Performance Analytics
 
@@ -79,6 +193,10 @@ The project covers the entire process, from the creation of the landing page and
 - Power BI
 - DAX
 
+### Architecture
+
+`Meta Ads + GA4 + Mailchimp → Python ETL → SQL Server → Power BI`
+
 ### What Was Developed
 
 - Created the brand identity and value proposition for Ecos Progressivos
@@ -86,47 +204,30 @@ The project covers the entire process, from the creation of the landing page and
 - Planned and executed a conversion campaign using Meta Ads
 - Implemented website measurement through Google Analytics 4
 - Collected confirmed subscriptions through Mailchimp
-- Built a Python ETL process to import, clean and integrate data from multiple platforms
-- Consolidated campaign metrics into a structured data model
-- Loaded the transformed data into SQL Server
+- Built a Python ETL process to clean and integrate data from multiple platforms
+- Loaded transformed data into SQL Server
 - Created DAX measures and an interactive Power BI dashboard
-- Analysed the conversion funnel and developed strategic recommendations
-
-### Project Architecture
-
-`Meta Ads + GA4 + Mailchimp → Python ETL → SQL Server → Power BI`
+- Analysed the full conversion funnel
+- Developed strategic recommendations based on campaign performance
 
 ### Key Results
 
-- **Meta Ads investment:** €64.79
-- **Impressions:** 25,386
-- **Reach:** 16,338 people
-- **Results attributed by Meta:** 7
-- **Website sessions:** 532
-- **New users:** 481
-- **Form starts:** 43
-- **Confirmed subscriptions:** 16
-- **Form-start rate:** 8.08%
-- **Session conversion rate:** 3.01%
-- **Cost per result attributed by Meta:** €9.26
-- **Overall cost per subscription:** €4.05
+- Meta Ads investment: **€64.79**
+- Impressions: **25,386**
+- Reach: **16,338**
+- Website sessions: **532**
+- New users: **481**
+- Form starts: **43**
+- Confirmed subscriptions: **16**
+- Form-start rate: **8.08%**
+- Session conversion rate: **3.01%**
+- Overall cost per subscription: **€4.05**
 
-### Key Insights
+### Key Insight
 
-The largest conversion funnel loss occurred before users started completing the form. From **532 website sessions**, only **43** generated a form-start event, representing a form-start rate of **8.08%**.
+The largest funnel loss occurred before users started completing the subscription form.
 
-Among the **43 form starts** and **16 confirmed subscriptions**, the resulting ratio was **37.21%**. This figure should be interpreted as an operational approximation because it compares GA4 events with unique confirmed contacts recorded in Mailchimp.
-
-The analysis demonstrated that optimisation should not focus exclusively on traffic acquisition. The clarity of the value proposition, form visibility, mobile experience and measurement quality also have a direct impact on conversion performance.
-
-### Recommendations
-
-- Implement consistent UTM parameters across all campaigns
-- Validate events such as `form_start`, `form_submit` and `sign_up`
-- Improve the visibility and simplicity of the subscription form
-- Strengthen alignment between advertisements and the landing page
-- Test Google Search as an intent-based acquisition channel
-- Develop A/B tests to improve the conversion rate
+From **532 website sessions**, only **43** generated a form-start event, highlighting the importance of landing-page clarity, form visibility, mobile experience and measurement quality in addition to traffic acquisition.
 
 ---
 
@@ -161,37 +262,28 @@ The objective was to identify the main factors associated with customer churn, q
 
 ### Key Results
 
-- Overall churn rate of **26.54%**
-- **1,869 customers** lost
-- **€139,130.85 in monthly recurring revenue associated with churn**
-- Estimated annualised impact of approximately **€1.67M**
-- Churn rate of **42.71%** among `Month-to-month` contracts
+- Overall churn rate: **26.54%**
+- Customers lost: **1,869**
+- Monthly recurring revenue associated with churn: **€139,130.85**
+- Estimated annualised impact: approximately **€1.67M**
+- Month-to-month churn rate: **42.71%**
 - Approximately **87% of monthly revenue associated with churn** concentrated among monthly contracts
 - High-value customers responsible for approximately **61% of monthly revenue associated with churn**
-- Churn rate of **50.37%** among `Month-to-month` customers without Tech Support, compared with **30.70%** among customers with the service
-- Three Power BI dashboard pages covering executive analysis, customer segmentation, financial impact and recommendations
+- Month-to-month churn without Tech Support: **50.37%**
+- Month-to-month churn with Tech Support: **30.70%**
 
-### Key Insights
+### Key Insight
 
-The analysis showed that customers with `Month-to-month` contracts presented the highest churn risk and represented the largest share of monthly revenue associated with churn.
+Customers with `Month-to-month` contracts presented the highest churn risk and represented the largest share of monthly revenue associated with churn.
 
-High-value customers had a disproportionate financial impact, making them a priority segment for retention strategies.
+High-value customers therefore represent a priority segment for retention strategies, particularly when combined with short-term contracts and low service adoption.
 
-The availability of services such as Tech Support was also associated with lower churn rates, particularly among customers with monthly contracts.
-
-### Recommendations
-
-- Prioritise high-value customers with `Month-to-month` contracts
-- Promote migration to longer-term contracts through targeted incentives
-- Develop proactive retention campaigns during the first months of the customer lifecycle
-- Increase adoption of Tech Support and related services
-- Monitor churn and revenue risk through regularly updated dashboards
-- Introduce predictive churn modelling as a future project extension
 
 ---
 
 # 🏆 Certifications
 
+- **dbt Fundamentals** — dbt Labs
 - **[Diploma in Digital Marketing](https://crowdclass-storage.s3.eu-west-1.amazonaws.com/zhrfy3hbkxdrug10ei9piycpa8ws)** — EDIT – Disruptive Digital Education
 - **[Google Analytics Certification](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/188051417)** — Google Skillshop
 - **[Google Ads Search Certification](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/184611605)** — Google Skillshop
@@ -202,13 +294,14 @@ The availability of services such as Tech Support was also associated with lower
 
 # Current Focus
 
-- Building end-to-end Data Analytics and Business Intelligence projects
-- Strengthening my skills in Python, SQL, Power BI and data modelling
-- Expanding my portfolio across Customer Analytics, Marketing Analytics and revenue risk analysis
-- Exploring predictive modelling and Machine Learning with Python to forecast customer behaviour
-- Available for Data Analyst roles where I can leverage data to drive business impact and optimise performance
+- Strengthening my profile in Analytics Engineering
+- Building modern analytics workflows with dbt, Snowflake and SQL
+- Developing stronger data modelling and data quality practices
+- Expanding cloud data platform knowledge
+- Applying analytics to real business problems
+- Building a coherent portfolio across Analytics Engineering, Marketing Analytics and Customer Analytics
+- Pursuing Data Analyst, Analytics Engineer and analytics-focused roles where technical skills and business understanding can be combined
 
----
 
 # Contact
 
