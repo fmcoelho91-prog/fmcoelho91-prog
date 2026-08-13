@@ -2,16 +2,21 @@
 
 ### Data Analyst | Analytics Engineering | Marketing Analytics
 
-I am a Data Analyst with a background in Digital Marketing, operations management and KPI-driven decision-making, currently expanding my profile toward modern Analytics Engineering.
+I am a Data Analyst with a background in Digital Marketing, operations management and KPI-driven decision-making.
 
-I recently completed an intensive Data Analytics programme at TechOf, developing practical skills in Python, SQL, SQL Server, Power BI, DAX, Excel and ETL processes. I also hold a diploma in Digital Marketing from EDIT – Disruptive Digital Education, completed with a final grade of 19/20.
+I see the Data Analyst role as one that is evolving.
 
-My current focus is on building reliable analytics workflows that go beyond dashboard creation, combining data transformation, dimensional modelling, data quality testing, documentation, version control and cloud data platforms.
+In my view, analysts are increasingly expected to do more than explore data and build dashboards. Understanding how data is transformed, modelled, tested and made reliable before it reaches the analytical layer is becoming an increasingly valuable part of the role.
 
-I work across the analytics lifecycle, from raw data ingestion and transformation to analytical modelling and business analysis, with a particular interest in building data models that are accurate, maintainable and useful for decision-making.
+That is the direction I want to follow.
 
-My portfolio includes projects in Analytics Engineering, Marketing Analytics, Customer Analytics, Churn Analysis and Business Intelligence using real and public datasets.
+I started with Digital Marketing, where data was already central to understanding customer behaviour, campaign performance and conversion. I then moved deeper into Data Analytics, developing practical skills in Python, SQL, Power BI, Excel and ETL processes.
 
+Today, I am expanding that foundation toward Analytics Engineering, working with technologies and practices such as dbt, Snowflake, dimensional modelling, data quality testing, documentation, lineage and Git.
+
+I do not see this as moving away from analytics. I see it as becoming a more complete analyst: someone who can understand the business question, work with the underlying data, build reliable analytical models and ultimately turn that data into useful decisions.
+
+My goal is to keep developing at the intersection of analytics, engineering and business, while building a profile that is prepared for how I believe the data profession is evolving.
 ---
 
 # Technical Skills
