@@ -288,7 +288,7 @@ High-value customers therefore represent a priority segment for retention strate
 
 # 🏆 Certifications
 
-- **dbt Fundamentals** — dbt Labs
+- **[dbt Fundamentals](https://credentials.getdbt.com/f9f77d3e-aa87-4636-8b49-87de5656d052#acc.hdjHku3g)** — dbt Labs
 - **[Diploma in Digital Marketing](https://crowdclass-storage.s3.eu-west-1.amazonaws.com/zhrfy3hbkxdrug10ei9piycpa8ws)** — EDIT – Disruptive Digital Education
 - **[Google Analytics Certification](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/188051417)** — Google Skillshop
 - **[Google Ads Search Certification](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/184611605)** — Google Skillshop
