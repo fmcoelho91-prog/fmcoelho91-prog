@@ -290,6 +290,7 @@ High-value customers therefore represent a priority segment for retention strate
 
 - **[Azure Data Fundamentals (DP-900)](https://learn.microsoft.com/api/credentials/share/en-gb/Franciscocoelho-3896/D58F70F4D3BD319D?sharingId=AA65EB77F13E5360)** - Microsoft Certified
 - **[dbt Fundamentals](https://credentials.getdbt.com/f9f77d3e-aa87-4636-8b49-87de5656d052#acc.hdjHku3g)** — dbt Labs
+- **[Diploma in Data Analyst](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/194620119)** - TechOf
 - **[Diploma in Digital Marketing](https://crowdclass-storage.s3.eu-west-1.amazonaws.com/zhrfy3hbkxdrug10ei9piycpa8ws)** — EDIT – Disruptive Digital Education
 - **[Google Analytics Certification](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/188051417)** — Google Skillshop
 - **[Google Ads Search Certification](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/184611605)** — Google Skillshop
